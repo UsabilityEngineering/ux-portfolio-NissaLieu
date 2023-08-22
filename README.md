@@ -1,6 +1,8 @@
-# UX Portfolio
+# Nissa's UX Portfolio
 
-About me...
+__About me__
+
+Hiya! My name is Nissa Lieu and majoring in Computer Science. I'm hoping to graduate in Spring 2024. 🤞
 
 ## UX Team Project
 
