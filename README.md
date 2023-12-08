@@ -6,8 +6,8 @@ Hiya! My name is Nissa Lieu and majoring in Computer Science. I'm hoping to grad
 
 ## UX Team Project
 
-Coming soon.
+[Budget Travel](https://chicostate.github.io/UX-BudgetTravel/)
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with an iPhone](j01/)
